@@ -1,4 +1,4 @@
-# corporacion-favorita-sales-forecasting
+# Corporacion-Favorita-Sales-Forecasting
 Time-Series Sales Forecasting using XGBoost with RMSLE optimization
 ## Project Overview
 This project develops a machine learning model to forecast daily unit sales for thousands of products across multiple stores using historical sales data.
